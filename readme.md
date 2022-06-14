@@ -14,18 +14,28 @@ Please perform the following instructions.
 
 ## Example
 
-```js
+ ```js
 // src/index.js
+
 
 // complete the function
 function prime(num) {
   // code goes here
+  if(% num === 0 ){
+    
+   return 
+  }
+  
 }
+
+prime(num);
 
 function solution(arg) {
   return prime(arg);
 }
 ```
+
+
 
 ## Running
 
